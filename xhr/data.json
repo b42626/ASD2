@@ -1,0 +1,162 @@
+{
+	"trip1": {
+		"method": "Plane",
+		"type": "Pleasure",
+		"dest": "Las Vegas, NV",
+		"date": "09/27/2013",
+		"people": "1",
+		"notes": "Gamble"
+	},
+	"trip2": {
+		"method": "Plane",
+		"type": "Vacation",
+		"dest": "Orlando, FL",
+		"date": "11/12/2013",
+		"people": "4",
+		"notes": "Disney world"
+	},
+	"trip3": {
+		"method": "Train",
+		"type": "Family",
+		"dest": "Chicago, IL",
+		"date": "11/27/2013",
+		"people": "4",
+		"notes": "Day in the city"
+	},
+	"trip4": {
+		"method": "Car",
+		"type": "Family",
+		"dest": "Georgetown, CO",
+		"date": "12/5/2013",
+		"people": "5",
+		"notes": "Ski resort"
+	},
+	"trip5": {
+		"method": "Plane",
+		"type": "Family",
+		"dest": "Long Beach, CA",
+		"date": "1/3/2014",
+		"people": "5",
+		"notes": "Chill at the beaches"
+	},
+	"trip6": {
+		"method": "Plane",
+		"type": "Vacation",
+		"dest": "Tokyo, JP",
+		"date": "2/1/2014",
+		"people": "4",
+		"notes": "Always wanted to go there"
+	},
+	"trip7": {
+		"method": "Plane",
+		"type": "Education",
+		"dest": "PSL, FL",
+		"date": "2/15/2014",
+		"people": "1",
+		"notes": "Job Training"
+	},
+	"trip8": {
+		"method": "Car",
+		"type": "Education",
+		"dest": "PSL, FL",
+		"date": "2/16/2014",
+		"people": "1",
+		"notes": "More training"
+	},
+	"trip9": {
+		"method": "Car",
+		"type": "Family",
+		"dest": "Atlanta, GA",
+		"date": "2/19/2014",
+		"people": "5",
+		"notes": "Visit relatives"
+	},
+	"trip10": {
+		"method": "Car",
+		"type": "Family",
+		"dest": "Gatlin, TN",
+		"date": "2/25/2014",
+		"people": "5",
+		"notes": "Visiting more family"
+	},
+	"trip11": {
+		"method": "Car",
+		"type": "Family",
+		"dest": "PSl, FL",
+		"date": "2/30/2014",
+		"people": "5",
+		"notes": "Come home for more job training"
+	},
+	"trip12": {
+		"method": "Plane",
+		"type": "Business",
+		"dest": "Las Angles, CA",
+		"date": "3/13/2014",
+		"people": "1",
+		"notes": "meet a business partner"
+	},
+	"trip13": {
+		"method": "Plane",
+		"type": "Business",
+		"dest": "Tokyo, JP",
+		"date": "3/27/2014",
+		"people": "1",
+		"notes": "Meet Mr. Miyamoto"
+	},
+	"trip14": {
+		"method": "Car",
+		"type": "Vacation",
+		"dest": "Keyes, FL",
+		"date": "4/3/2014",
+		"people": "4",
+		"notes": "spend some time in the keyes"
+	},
+	"trip15": {
+		"method": "Car",
+		"type": "Family",
+		"dest": "palm Springs, FL",
+		"date": "4/10/2014",
+		"people": "4",
+		"notes": "Visit Family"
+	},
+	"trip16": {
+		"method": "Plane",
+		"type": "Family",
+		"dest": "Lansing, IL",
+		"date": "5/13/2014",
+		"people": "5",
+		"notes": "Visit Grandparents"
+	},
+	"trip17": {
+		"method": "Car",
+		"type": "Pleasure",
+		"dest": "Las Vegas, NV",
+		"date": "6/13/2014",
+		"people": "1",
+		"notes": "More gambling"
+	},
+	"trip18": {
+		"method": "Car",
+		"type": "Vacation",
+		"dest": "USA",
+		"date": "7/13/2014",
+		"people": "5",
+		"notes": "Road trip"
+	},
+	"trip19": {
+		"method": "Car",
+		"type": "Family",
+		"dest": "Palm Springs, FL",
+		"date": "12/25/2014",
+		"people": "5",
+		"notes": "Christmas at parents"
+	},
+	"trip20": {
+		"method": "Train",
+		"type": "Vacation",
+		"dest": "New York City, NY",
+		"date": "12/31/2014",
+		"people": "5",
+		"notes": "New Years Eve."
+	}
+}
